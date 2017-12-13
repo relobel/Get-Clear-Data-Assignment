@@ -42,8 +42,8 @@ The resulting 83 variables are described as follows:
 	============							=========	========================================================
 	subject									integer 	Unique participant Identification (1:30)
 	activity								character	Activity Descrition: 
-														walking, walking_upstairs, walking_downstairs, sitting, 
-														standing, laying
+														walking, walking_upstairs, walking_downstairs, 
+														sitting, standing, laying
 	Time_Body_Acc_mean_X					numeric		Time domain Body Accelerometer mean X axis
 	Time_Body_Acc_mean_Y					numeric		Time domain Body Accelerometer mean Y axis
 	Time_Body_Acc_mean_Z					numeric		Time domain Body Accelerometer mean Z axis
